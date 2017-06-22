@@ -1,5 +1,5 @@
 #!/bin/bash
-This is a shell dnsblaster
+##This is a shell dnsblaster
 
 ## Deps
 WHATITIS=dnsutils
