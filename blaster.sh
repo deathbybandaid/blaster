@@ -30,7 +30,7 @@ fi
 
 ## Vars
 HOSTTOBLAST=$(whiptail --inputbox "What DNS SERVER?" 10 80 "" 3>&1 1>&2 2>&3)
-DOMAINLISTURL="https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/parsedall/1111ALLPARSEDLISTS1111.txt"
+DOMAINLISTURL="https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt"
 DOMAINLIST="/home/domainlist"
 
 ## Get Domain List
