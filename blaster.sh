@@ -1,6 +1,9 @@
 #!/bin/bash
 ##This is a shell dnsblaster
 
+## maybe
+#which ${WHATITIS} || apt-get install -y ${WHATITIS}
+
 ## Deps
 WHATITIS=dnsutils
 WHATPACKAGE=dnsutils
